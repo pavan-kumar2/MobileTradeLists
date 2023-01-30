@@ -1,0 +1,32 @@
+<div *ngIf="year" >
+  <table *ngFor="let item of year">
+    <thead style="border-bottom: 1px solid green;">
+      <tr >
+        <td>{{item.month}}</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+      <tr>
+        <td>Phone</td>
+        <td>Price</td>
+        <td>Quantity</td>
+      </tr>
+      </td>
+      </tr>
+
+      <tr>
+        <td *ngIf="item.phones">
+      <tr *ngFor="let phone of item.phones">
+        <td>{{phone.name}}</td>
+        <td>{{phone.price}}</td>
+        <td>{{phone.quantity}}</td>
+      </tr>
+      </td>
+
+      </tr>
+
+    </tbody>
+  </table>
+</div>

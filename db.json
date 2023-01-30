@@ -1,0 +1,694 @@
+{
+  "2018": [{
+      "month": "january",
+      "phones": [{
+          "name": "iPhone",
+          "price": 50000,
+          "quantity": 5
+        },
+        {
+          "name": "SamSung",
+          "price": 40000,
+          "quantity": 4
+        },
+        {
+          "name": "RealMe",
+          "price": 30000,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "month": "February",
+      "phones": [{
+          "name": "iPhone",
+          "price": 50000,
+          "quantity": 5
+        },
+        {
+          "name": "SamSung",
+          "price": 40000,
+          "quantity": 4
+        },
+        {
+          "name": "RealMe",
+          "price": 30000,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "month": "March",
+      "phones": [{
+          "name": "iPhone",
+          "price": 50000,
+          "quantity": 5
+        },
+        {
+          "name": "SamSung",
+          "price": 40000,
+          "quantity": 4
+        },
+        {
+          "name": "RealMe",
+          "price": 30000,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "month": "April",
+      "phones": [{
+          "name": "iPhone",
+          "price": 50000,
+          "quantity": 5
+        },
+        {
+          "name": "SamSung",
+          "price": 40000,
+          "quantity": 4
+        },
+        {
+          "name": "RealMe",
+          "price": 30000,
+          "quantity": 3
+        },
+        {
+          "name": "RedMe",
+          "price": 20000,
+          "quantity": 8
+        }
+      ]
+    },
+    {
+      "month": "May",
+      "phones": [{
+          "name": "iPhone",
+          "price": 50000,
+          "quantity": 5
+        },
+        {
+          "name": "SamSung",
+          "price": 40000,
+          "quantity": 4
+        },
+        {
+          "name": "RealMe",
+          "price": 30000,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "month": "June",
+      "phones": [{
+          "name": "iPhone",
+          "price": 50000,
+          "quantity": 5
+        },
+        {
+          "name": "SamSung",
+          "price": 40000,
+          "quantity": 4
+        },
+        {
+          "name": "RealMe",
+          "price": 30000,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "month": "July",
+      "phones": [{
+          "name": "iPhone",
+          "price": 50000,
+          "quantity": 5
+        },
+        {
+          "name": "SamSung",
+          "price": 40000,
+          "quantity": 4
+        },
+        {
+          "name": "RealMe",
+          "price": 30000,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "month": "August",
+      "phones": [{
+          "name": "iPhone",
+          "price": 50000,
+          "quantity": 5
+        },
+        {
+          "name": "SamSung",
+          "price": 40000,
+          "quantity": 4
+        },
+        {
+          "name": "RealMe",
+          "price": 30000,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "month": "September",
+      "phones": [{
+          "name": "iPhone",
+          "price": 50000,
+          "quantity": 5
+        },
+        {
+          "name": "SamSung",
+          "price": 40000,
+          "quantity": 4
+        },
+        {
+          "name": "RealMe",
+          "price": 30000,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "month": "October",
+      "phones": [{
+          "name": "iPhone",
+          "price": 50000,
+          "quantity": 5
+        },
+        {
+          "name": "SamSung",
+          "price": 40000,
+          "quantity": 4
+        },
+        {
+          "name": "RealMe",
+          "price": 30000,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "month": "November",
+      "phones": [{
+          "name": "iPhone",
+          "price": 50000,
+          "quantity": 5
+        },
+        {
+          "name": "SamSung",
+          "price": 40000,
+          "quantity": 4
+        },
+        {
+          "name": "RealMe",
+          "price": 30000,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "month": "December",
+      "phones": [{
+          "name": "iPhone",
+          "price": 50000,
+          "quantity": 5
+        },
+        {
+          "name": "SamSung",
+          "price": 40000,
+          "quantity": 4
+        },
+        {
+          "name": "RealMe",
+          "price": 30000,
+          "quantity": 3
+        }
+      ]
+    }
+  ],
+  "2019": [{
+      "month": "january",
+      "phones": [{
+          "name": "iPhone",
+          "price": 50000,
+          "quantity": 5
+        },
+        {
+          "name": "SamSung",
+          "price": 40000,
+          "quantity": 4
+        },
+        {
+          "name": "RealMe",
+          "price": 30000,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "month": "February",
+      "phones": [{
+          "name": "iPhone",
+          "price": 50000,
+          "quantity": 5
+        },
+        {
+          "name": "SamSung",
+          "price": 40000,
+          "quantity": 4
+        },
+        {
+          "name": "RealMe",
+          "price": 30000,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "month": "March",
+      "phones": [{
+          "name": "iPhone",
+          "price": 50000,
+          "quantity": 5
+        },
+        {
+          "name": "SamSung",
+          "price": 40000,
+          "quantity": 4
+        },
+        {
+          "name": "RealMe",
+          "price": 30000,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "month": "April",
+      "phones": [{
+          "name": "iPhone",
+          "price": 50000,
+          "quantity": 5
+        },
+        {
+          "name": "SamSung",
+          "price": 40000,
+          "quantity": 4
+        },
+        {
+          "name": "RealMe",
+          "price": 30000,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "month": "May",
+      "phones": [{
+          "name": "iPhone",
+          "price": 50000,
+          "quantity": 5
+        },
+        {
+          "name": "SamSung",
+          "price": 40000,
+          "quantity": 4
+        },
+        {
+          "name": "RealMe",
+          "price": 30000,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "month": "June",
+      "phones": [{
+          "name": "iPhone",
+          "price": 50000,
+          "quantity": 5
+        },
+        {
+          "name": "SamSung",
+          "price": 40000,
+          "quantity": 4
+        },
+        {
+          "name": "RealMe",
+          "price": 30000,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "month": "July",
+      "phones": [{
+          "name": "iPhone",
+          "price": 50000,
+          "quantity": 5
+        },
+        {
+          "name": "SamSung",
+          "price": 40000,
+          "quantity": 4
+        },
+        {
+          "name": "RealMe",
+          "price": 30000,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "month": "August",
+      "phones": [{
+          "name": "iPhone",
+          "price": 50000,
+          "quantity": 5
+        },
+        {
+          "name": "SamSung",
+          "price": 40000,
+          "quantity": 4
+        },
+        {
+          "name": "RealMe",
+          "price": 30000,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "month": "September",
+      "phones": [{
+          "name": "iPhone",
+          "price": 50000,
+          "quantity": 5
+        },
+        {
+          "name": "SamSung",
+          "price": 40000,
+          "quantity": 4
+        },
+        {
+          "name": "RealMe",
+          "price": 30000,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "month": "October",
+      "phones": [{
+          "name": "iPhone",
+          "price": 50000,
+          "quantity": 5
+        },
+        {
+          "name": "SamSung",
+          "price": 40000,
+          "quantity": 4
+        },
+        {
+          "name": "RealMe",
+          "price": 30000,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "month": "November",
+      "phones": [{
+          "name": "iPhone",
+          "price": 50000,
+          "quantity": 5
+        },
+        {
+          "name": "SamSung",
+          "price": 40000,
+          "quantity": 4
+        },
+        {
+          "name": "RealMe",
+          "price": 30000,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "month": "December",
+      "phones": [{
+          "name": "iPhone",
+          "price": 50000,
+          "quantity": 5
+        },
+        {
+          "name": "SamSung",
+          "price": 40000,
+          "quantity": 4
+        },
+        {
+          "name": "RealMe",
+          "price": 30000,
+          "quantity": 3
+        }
+      ]
+    }
+  ],
+  "2020": [{
+      "month": "january",
+      "phones": [{
+          "name": "iPhone",
+          "price": 50000,
+          "quantity": 5
+        },
+        {
+          "name": "SamSung",
+          "price": 40000,
+          "quantity": 4
+        },
+        {
+          "name": "RealMe",
+          "price": 30000,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "month": "February",
+      "phones": [{
+          "name": "iPhone",
+          "price": 50000,
+          "quantity": 5
+        },
+        {
+          "name": "SamSung",
+          "price": 40000,
+          "quantity": 4
+        },
+        {
+          "name": "RealMe",
+          "price": 30000,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "month": "March",
+      "phones": [{
+          "name": "iPhone",
+          "price": 50000,
+          "quantity": 5
+        },
+        {
+          "name": "SamSung",
+          "price": 40000,
+          "quantity": 4
+        },
+        {
+          "name": "RealMe",
+          "price": 30000,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "month": "April",
+      "phones": [{
+          "name": "iPhone",
+          "price": 50000,
+          "quantity": 5
+        },
+        {
+          "name": "SamSung",
+          "price": 40000,
+          "quantity": 4
+        },
+        {
+          "name": "RealMe",
+          "price": 30000,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "month": "May",
+      "phones": [{
+          "name": "iPhone",
+          "price": 50000,
+          "quantity": 5
+        },
+        {
+          "name": "SamSung",
+          "price": 40000,
+          "quantity": 4
+        },
+        {
+          "name": "RealMe",
+          "price": 30000,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "month": "June",
+      "phones": [{
+          "name": "iPhone",
+          "price": 50000,
+          "quantity": 5
+        },
+        {
+          "name": "SamSung",
+          "price": 40000,
+          "quantity": 4
+        },
+        {
+          "name": "RealMe",
+          "price": 30000,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "month": "July",
+      "phones": [{
+          "name": "iPhone",
+          "price": 50000,
+          "quantity": 5
+        },
+        {
+          "name": "SamSung",
+          "price": 40000,
+          "quantity": 4
+        },
+        {
+          "name": "RealMe",
+          "price": 30000,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "month": "August",
+      "phones": [{
+          "name": "iPhone",
+          "price": 50000,
+          "quantity": 5
+        },
+        {
+          "name": "SamSung",
+          "price": 40000,
+          "quantity": 4
+        },
+        {
+          "name": "RealMe",
+          "price": 30000,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "month": "September",
+      "phones": [{
+          "name": "iPhone",
+          "price": 50000,
+          "quantity": 5
+        },
+        {
+          "name": "SamSung",
+          "price": 40000,
+          "quantity": 4
+        },
+        {
+          "name": "RealMe",
+          "price": 30000,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "month": "October",
+      "phones": [{
+          "name": "iPhone",
+          "price": 50000,
+          "quantity": 5
+        },
+        {
+          "name": "SamSung",
+          "price": 40000,
+          "quantity": 4
+        },
+        {
+          "name": "RealMe",
+          "price": 30000,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "month": "November",
+      "phones": [{
+          "name": "iPhone",
+          "price": 50000,
+          "quantity": 5
+        },
+        {
+          "name": "SamSung",
+          "price": 40000,
+          "quantity": 4
+        },
+        {
+          "name": "RealMe",
+          "price": 30000,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "month": "December",
+      "phones": [{
+          "name": "iPhone",
+          "price": 50000,
+          "quantity": 5
+        },
+        {
+          "name": "SamSung",
+          "price": 40000,
+          "quantity": 4
+        },
+        {
+          "name": "RealMe",
+          "price": 30000,
+          "quantity": 3
+        }
+      ]
+    }
+  ]
+}
